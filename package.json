@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojshakewell/bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Brian Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ojshakewell/bamazon/issues"
+  },
+  "homepage": "https://github.com/ojshakewell/bamazon#readme"
+}
