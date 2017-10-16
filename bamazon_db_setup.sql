@@ -11,6 +11,11 @@ stock_quantity INTEGER(5),
 PRIMARY KEY(item_id)
 );
 
+ALTER TABLE products
+ADD product_sales FLOAT(10,2);
+
+
+
 INSERT INTO products (product_name, department_name, price, stock_quantity) 
 VALUES ("chainsaw", "hardware", 199.99, 12);
 
